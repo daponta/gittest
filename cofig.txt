@@ -2,4 +2,5 @@
 url=http://google.com
 env=production
 home=/home/user/
+error=/tmp/error.log
 message=あいあうあああ

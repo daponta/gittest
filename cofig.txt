@@ -2,4 +2,5 @@
 url=http://yahoo.co.jp
 env=test
 home=/home/user/test/
+error=/tmp/error.log
 message=あいあうあああ　テスト

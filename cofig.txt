@@ -4,3 +4,5 @@ env=testenv
 home=/home/user/tester
 error=/tmp/error.log
 message=あいあうあああ
+
+payment=1000

@@ -1,6 +1,6 @@
 設定ファイル
 url=http://google.com
-env=test
-home=/home/user/
+env=testenv
+home=/home/user/tester
 error=/tmp/error.log
 message=あいあうあああ

@@ -1,0 +1,5 @@
+設定ファイル
+url=http://google.com
+env=production
+home=/home/user/
+message=あいあうあああ
